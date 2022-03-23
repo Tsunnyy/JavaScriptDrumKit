@@ -48,7 +48,7 @@ table {
 }
 
 body{
-    background: url("/img/musicBg.jpg");
+    background: url("../img/musicBg.jpg");
     background-size: cover;
 }
 
