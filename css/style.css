@@ -50,6 +50,8 @@ table {
 body{
     background: url("../img/musicBg.jpg");
     background-size: cover;
+    background-repeat: no-repeat;
+    height: 100vh;
 }
 
 .keys{
@@ -59,6 +61,7 @@ body{
     top: 50%;
     left: 50%;
     transform: translate(-50%, -50%);
+    flex-wrap: wrap;
 }
 .key{
     color: #fff;
